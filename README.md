@@ -4,10 +4,8 @@ I’m a rising senior majoring in Computer Science with a focus on AI, Robotics,
 
 I have a growing passion in Graphics Development and have started my journey small using Graphics Development Pipelines like IRIS that is tailored to develop Shaders for the popular video game, Minecraft.
 
-I am currently focused on the early development of my Minecraft shader, Allium!
+I am currently focused on the development of my Minecraft shader, Allium!
 
-![2025-06-10_21 17 53](https://github.com/user-attachments/assets/f449dbca-6ec5-4187-b64c-5ce0ddde5f7f)
-![2025-06-10_21 23 46](https://github.com/user-attachments/assets/1ad16939-d413-4071-8f96-bffbe9b9572d)
-![2025-06-10_21 28 15](https://github.com/user-attachments/assets/a4f41c36-4a48-4861-802b-d86eeb7ff9bc)
-![2025-06-10_22 19 19](https://github.com/user-attachments/assets/024c4a44-efeb-4fca-a4ab-e7c169ec4117)
-![2025-06-10_22 16 54](https://github.com/user-attachments/assets/8f4443fb-3f53-47ea-8e15-3ed2f076e235)
+![2025-06-15_13 27 04](https://github.com/user-attachments/assets/06fa67cc-dc15-4df9-a2a5-5ea186b373dc)
+![2025-06-15_13 11 29](https://github.com/user-attachments/assets/7d5ce333-000a-4f02-ba82-0c8aa92171f3)
+![2025-06-15_13 55 40](https://github.com/user-attachments/assets/9b7ca4ac-109f-4673-9281-0aedf8df8d48)
