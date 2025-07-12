@@ -6,6 +6,6 @@ I have a growing passion in Graphics Development and have started my journey sma
 
 I am currently focused on the development of my Minecraft shader, Allium!
 
-![2025-06-15_13 27 04](https://github.com/user-attachments/assets/06fa67cc-dc15-4df9-a2a5-5ea186b373dc)
-![2025-06-15_13 11 29](https://github.com/user-attachments/assets/7d5ce333-000a-4f02-ba82-0c8aa92171f3)
-![2025-06-15_13 55 40](https://github.com/user-attachments/assets/9b7ca4ac-109f-4673-9281-0aedf8df8d48)
+<img width="2560" height="1440" alt="2025-07-12_01 31 43" src="https://github.com/user-attachments/assets/3544896f-4dd3-4d04-aafd-122ea00951bb" />
+<img width="2560" height="1440" alt="2025-07-12_02 38 51" src="https://github.com/user-attachments/assets/2d221318-a301-449f-9f95-6bdc033a39ec" />
+<img width="2560" height="1440" alt="2025-07-12_01 35 34" src="https://github.com/user-attachments/assets/f479933a-e2fe-4485-b411-84bba0a42ccb" />
